@@ -1,0 +1,12 @@
+appId: me.mic0.devroom-showcase
+productName: Devroom Showcase
+copyright: Copyright © 2021 mic0
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
